@@ -42,7 +42,9 @@ This project helped me understand and get hands-on experience with:
 
 ## 📁 Project Structure
 web-to-pdf-converter/
+<br>
 ├── main.py # Main Python script
+<br>
 ├── README.md # Project overview and instructions
 
 ## 📌 Dependencies
